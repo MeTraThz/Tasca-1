@@ -1,7 +1,7 @@
 # Tasca-1
 ###### Repositori per guardar els scripts de PowerShell
 
-$file sirve para buscar el fichero o directorio. 
+$file sirve para buscar el fichero o directorio.\n 
 $dir determina la ruta en la que buscará el script.
 $gci buscará el fichero o directorio, eludiendo errores, en la ruta establecida.
 
