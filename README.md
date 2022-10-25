@@ -36,7 +36,7 @@ Las 20 primeras líneas del código son, en esencia, del diseño del menú de ge
 
 Dentro del Switch, también conocido como Case en la mayoría de lenguajes, veremos 4 opciones; cada una de estas corresponde a una acción del programa.
 1. Introduces el nombre del fichero en una variable. Si el nombre introducido es un argumento vacío, directamente, cancelas la operación.
-2. Introduces el nombre de la ruta en la que buscar el fichero. Pueden ser rutas absolutas o rutas relativas. (Mirar NOTAS de la línea 8 a la línea 10).
+2. Introduces el nombre de la ruta en la que buscar el fichero. Pueden ser rutas absolutas o rutas relativas. (Mirar NOTAS de la línea 8 a la línea 10).<br>
 2.1. A parte de buscar todas las coincidencias de tu archivo o directorio en todo tu disco duro, para que no hayan problemas te pedirá que, de todas las rutas absolutas que te ha mostrado anteriormente, copies y pegues la ruta donde se haye el archivo o directorio que te interesa copiar.
 3. Introduce la ruta ABSOLUTA en la que copiarás el directorio. (Ruta Objetivo).
 4. El programa busca la ubicación del fichero y, si tu fichero o directorio coincide con alguna ruta de tu ordenador, lo copiará al directorio objetivo. Tiene una opción de contención de errores, por si te da por utilizarlo sin introducir todos los campos, o ninguno PERO no tiene contención de errores por si introduces la ruta mal o el fichero no existe, el programa petará.
